@@ -23,4 +23,6 @@
 ### Лабораторные работы
 + [№3,4. Титаник](https://github.com/NikitaSH999/prog-ex/tree/main/ПРОГ-6/ЛР3-4)
 
-
+# Курсовая работа
+### Математические вычисления 
++ [Программа по вычислению](https://github.com/NikitaSH999/prog-ex/blob/main/mama.exe)
